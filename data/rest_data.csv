@@ -1,0 +1,12 @@
+start;end;rest;comment
+2020-01-01;2020-01-30;none;Before pandemic
+2020-01-31;2020-02-25;mild;First cases
+2020-02-26;2020-03-12;middle;Community transmission
+2020-03-13;2020-03-27;harsh;State of alarm
+2020-03-28;2020-04-12;harsh;Halting of all non-essential activity
+2020-04-13;2020-05-01;middle;Lifting of some restrictions
+2020-05-02;2020-06-21;mild;De-escalation
+2020-06-22;2020-07-16;none;New normality
+2020-07-17;2020-09-30;mild;Resurgence 
+2020-10-01;2021-05-09;harsh;State of emergency reimposed
+2021-05-10;2021-12-31;none;Gradual return to normal
